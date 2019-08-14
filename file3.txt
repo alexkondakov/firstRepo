@@ -1,1 +1,2 @@
 added from master
+added text from hotfix2
